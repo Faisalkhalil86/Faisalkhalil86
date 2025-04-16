@@ -3,7 +3,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Pi-unrolled-720.gif" alt="master head" width="600">
 </div>
 
-<h1 align="center">Hi 👋, I'm Muzamil</h1>
+<h1 align="center">Hi 👋, I'm Faisal Khalil</h1>
 <h3 align="center">🚀 Full-Stack Developer | Exploring Django & Python</h3>
 
 <!-- Animated GIF of coding -->
