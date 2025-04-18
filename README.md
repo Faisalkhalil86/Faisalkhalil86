@@ -1,11 +1,10 @@
 <!-- Header with a centered image and title -->
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Launch_of_Falcon_9_carrying_CRS-19.gif" alt="rocket launch" width="600">
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Pi-unrolled-720.gif" alt="master head" width="600">
 </div>
 
-<h1 align="center text-bold">Hi 👋, I'm Faisal Khalil</h1>
-<h3 align="center">🚀 Front-end Developer | Exploring React Js & Next Js</h3>
+<h1 align="center">Hi 👋, I'm Faisal Khalil</h1>
+<h3 align="center">🚀 Frontend-Developer | Exploring Django & Python</h3>
 
 <!-- Animated GIF of coding -->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
@@ -14,6 +13,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ProgrammingWithMuzamil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 ---
 
