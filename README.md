@@ -40,11 +40,8 @@
 ---
 
 ## *🛠 Tech Stack*
-💻 *Languages:* JavaScript, TypeScript, Python  
-⚡ *Frontend:* React.js, Next.js, Tailwind CSS, Material-UI  
-🛠 *Backend:* Django, DRF  
-🛢 *Databases:* MongoDB, PostgreSQL, MySQL  
-☁ *Cloud & DevOps:* Docker, AWS (Basics)  
+💻 *Languages:* JavaScript, TypeScript, React Js  
+⚡ *Frontend:* React.js, Next.js, Tailwind CSS, Material-UI    
 📂 *Version Control:* Git, GitHub, GitLab  
 🎨 *Design & Prototyping:* Figma  
 
