@@ -65,34 +65,15 @@
 
 ---
 
-## *📊 GitHub Stats*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammingWithMuzamil&show_icons=true&locale=en" alt="ProgrammingWithMuzamil" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammingWithMuzamil&show_icons=true&locale=en&layout=compact" alt="ProgrammingWithMuzamil" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingWithMuzamil&" alt="ProgrammingWithMuzamil" />
-</p>
+---
+
+
 
 ---
 
-## *🚀 Featured Projects*
-| Project | Description |
-|---------|-------------|
-| [🎨 Portfolio](https://portfolio-eta-weld-42.vercel.app/) | My personal portfolio site |
-| [🚗 Car Rental](https://new-car-project.vercel.app/) | Find, book, or rent a car easily |
-| [📊 Dashboard](https://dashboard-red-delta.vercel.app/) | Fully featured admin dashboard |
-| [🕋 Makkha](https://makkha.vercel.app/) | Spiritual Voyage Web App |
-| [✅ Todo App](https://react18-todo.vercel.app/) | A simple & modern task manager |
-| [📚 LMS Dashboard](https://lms-dashboard-next.vercel.app/) | Learning Management System |
-
----
-
-## *🎯 2024 Goals*
-🔹 *Master Django & Python*  
-🔹 *Deepen knowledge in Cloud & DevOps*  
+## *🎯 2025 Goals*
+🔹 *Master Full-Stack Developer*  
+🔹 *Deepen knowledge Full-Stack Developer*  
 🔹 *Contribute actively to Open Source Projects*  
 🔹 *Participate in Tech Conferences & Hackathons*  
 🔹 *Build Scalable & Efficient Web Applications*  
