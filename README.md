@@ -17,17 +17,16 @@
 
 ---
 
-## *👨‍💻 About Me*
-✅ *Expert in Full Stack Web Development*  
-✅ *Building High-Performance Web Apps*  
-✅ *Passionate about Open Source & Community*  
-✅ *Currently mastering Django & Python*  
+👨‍💻 About Me
+✅ Expert in Frontend Web Development
+✅ Building High-Performance Web Apps
+✅ Passionate about Open Source & Community
+✅ Currently mastering React.js & Tailwind CSS
 
-🎯 *Current Role:* Full-Stack Developer at *TMR Consulting*  
-📚 *Currently Learning:* Django, Python, Cloud Technologies  
-💬 *Ask me about:* MERN Stack, Next.js, Tailwind CSS, MongoDB, APIs  
-📩 *Reach me at:* [muhmmadmuzamil445@gmail.com](mailto:muhmmadmuzamil445@gmail.com)  
-⚡ *Fun Fact:* I love *innovation & problem-solving. Next stop? **Data Science!* 🚀  
+🎯 Current Role: Frontend Developer
+📚 Currently Learning: Next.js, MERN Stack
+💬 Ask me about: Frontend, React.js, Tailwind CSS
+📩 Reach me at: bodlah05@gmail.com
 
 ---
 
