@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Faisal Khalil</h1>
-<h3 align="center">🚀 Frontend-Developer | Exploring Django & Python</h3>
+<h3 align="center">🚀 Frontend-Developer | React Js & Next Js</h3>
 
 <!-- Animated GIF of coding -->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
