@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Faisal Khalil</h1>
+<h1 align="center text-bold">Hi 👋, I'm Faisal Khalil</h1>
 <h3 align="center">🚀 Front-end Developer | Exploring React Js & Next Js</h3>
 
 <!-- Animated GIF of coding -->
@@ -60,15 +60,6 @@
   </a>
   <a href="https://nextjs.org" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
