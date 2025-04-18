@@ -17,16 +17,16 @@
 
 ---
 
-👨‍💻 About Me
-✅ Expert in Frontend Web Development
-✅ Building High-Performance Web Apps
-✅ Passionate about Open Source & Community
-✅ Currently mastering React.js & Tailwind CSS
+## *👨‍💻 About Me*
+✅ *Expert in Frontend Web Development*  
+✅ *Building High-Performance Web Apps*  
+✅ *Passionate about Open Source & Community*  
+✅ *Currently mastering React.js & Tailwind CSS*  
 
-🎯 Current Role: Frontend Developer
-📚 Currently Learning: Next.js, MERN Stack
-💬 Ask me about: Frontend, React.js, Tailwind CSS
-📩 Reach me at: bodlah05@gmail.com
+🎯 *Current Role:*Frontend Developer*  
+📚 *Currently Learning:* Next.js, MERN Stack 
+💬 *Ask me about:* Frontend, React.js, Tailwind CSS
+📩 *Reach me at:* [bodlah05@gmail.com](mailto:bodlah05@gmail.com)  
 
 ---
 
