@@ -33,7 +33,7 @@
 
 ## *🌍 Connect with Me*
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammed-muzamil-052b75237" target="_blank">
+  <a href="https://www.linkedin.com/in/faisal-khalil-769525254/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" height="30" />
   </a>
 </p>
