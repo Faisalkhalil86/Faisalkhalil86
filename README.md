@@ -24,8 +24,8 @@
 ✅ *Currently mastering React.js & Tailwind CSS*  
 
 🎯 *Current Role:*Frontend Developer*  
-📚 *Currently Learning:* Next.js, MERN Stack 
-💬 *Ask me about:* Frontend, React.js, Tailwind CSS
+📚 *Currently Learning:* Next.js, MERN Stack <br>
+💬 *Ask me about:* Frontend, React.js, Tailwind CSS <br>
 📩 *Reach me at:* [bodlah05@gmail.com](mailto:bodlah05@gmail.com)  
 
 ---
