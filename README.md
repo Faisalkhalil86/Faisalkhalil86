@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Faisal Khalil</h1>
-<h3 align="center">🚀 Frontend-Developer | React Js & Next Js</h3>
+<h3 align="center">🚀 Frontend Developer | React Js & Next Js</h3>
 
 <!-- Animated GIF of coding -->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=ProgrammingWithMuzamil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
 ---
 
 ## *👨‍💻 About Me*
@@ -23,7 +22,7 @@
 ✅ *Passionate about Open Source & Community*  
 ✅ *Currently mastering React.js & Tailwind CSS*  
 
-🎯 *Current Role:*Frontend Developer*  
+🎯 *Current Role:* Frontend Developer  
 📚 *Currently Learning:* Next.js, MERN Stack <br>
 💬 *Ask me about:* Frontend, React.js, Tailwind CSS <br>
 📩 *Reach me at:* [bodlah05@gmail.com](mailto:bodlah05@gmail.com)  
@@ -64,6 +63,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -79,6 +79,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisalkhalil86&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=147b96&title_color=00ffff&area=true&hide_border=true" width="95%"/>
 </div>
 
+---
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -86,12 +88,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Faisalkhalil86&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 ---
 
-
 ## *🎯 2025 Goals*
-🔹 *Master Full-Stack Developer*  
-🔹 *Deepen knowledge Full-Stack Developer*  
+🔹 *Master Full-Stack Development*  
+🔹 *Deepen knowledge in Full-Stack Development*  
 🔹 *Contribute actively to Open Source Projects*  
 🔹 *Participate in Tech Conferences & Hackathons*  
 🔹 *Build Scalable & Efficient Web Applications*  
