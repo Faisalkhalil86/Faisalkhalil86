@@ -14,11 +14,11 @@
 
 </div>
 
-<br/>
+---
 
 <img align="right" alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+## 👨‍💻 About Me
 
 ```javascript
 const faisal = {
@@ -33,3 +33,31 @@ const faisal = {
   contact: "bodlah05@gmail.com",
   availableForHire: true
 };
+```
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Faisalkhalil86&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Faisalkhalil86&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalkhalil86&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=0d1117" />
+</div>
+
+<div align="center">
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faisalkhalil86&theme=dark&hide_border=true&stroke=00ffff&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisalkhalil86&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=147b96&title_color=00ffff&area=true&hide_border=true" width="95%"/>
+</div>
