@@ -30,7 +30,7 @@ const faisal = {
   learning: ["MERN Stack", "Advanced Next.js"],
   askMeAbout: ["Frontend", "React", "Tailwind CSS", "Web Performance"],
   funFact: "I turn coffee into code ☕ → 💻",
-  contact: "bodlah05@gmail.com",
+  contact: "faisalkhalil.developer@gmail.com",
   availableForHire: true
 };
 ```
